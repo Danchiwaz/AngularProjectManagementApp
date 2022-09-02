@@ -1,0 +1,16 @@
+models needed 
+Users model
+ -id
+ -firstname 
+ - lastname
+ - email 
+ - password 
+ - role 
+
+Project model
+ - id
+ - Title 
+ - Assigned 
+ - completed 
+ - description 
+ - end Date
